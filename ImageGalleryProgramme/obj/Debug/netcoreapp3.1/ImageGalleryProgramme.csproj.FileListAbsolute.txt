@@ -1,4 +1,0 @@
-D:\visual studio\First\ImageGalleryProgramme\obj\Debug\netcoreapp3.1\ImageGalleryProgramme.csproj.AssemblyReference.cache
-D:\visual studio\First\ImageGalleryProgramme\obj\Debug\netcoreapp3.1\ImageGalleryProgramme.AssemblyInfoInputs.cache
-D:\visual studio\First\ImageGalleryProgramme\obj\Debug\netcoreapp3.1\ImageGalleryProgramme.AssemblyInfo.cs
-D:\visual studio\First\ImageGalleryProgramme\obj\Debug\netcoreapp3.1\ImageGalleryProgramme.csproj.CoreCompileInputs.cache
